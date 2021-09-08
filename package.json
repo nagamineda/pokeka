@@ -1,0 +1,11 @@
+{
+  "name": "pokeka",
+  "version": "1.0.0",
+  "description": "pokeka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nagamineda",
+  "license": "MIT"
+}
